@@ -1,0 +1,24 @@
+#Adminpage {
+	background-color: lightblue;
+	width: 800px;
+	color: black;
+	height: 450px;
+} 
+.navbar {
+    margin-bottom: 0;
+    background-color: darkslategray;
+    border: 0;
+    font-size: 18px !important;
+    letter-spacing: 2px;
+    opacity: 0.9;
+} 
+.jumbotron {
+    background-color: #f2dede;
+    color: black; 
+}
+footer {
+    background-color: #f2dede;
+    color: #333;
+    padding: 32px;
+    font-size: 18px;
+}

@@ -1,0 +1,24 @@
+#SearchResultOneWay {
+	background-color: lightblue;
+	width: 800px;
+	font-size: 14px;
+	height: 600px;
+} 
+.navbar {
+    margin-bottom: 0;
+    background-color: darkslategray;
+    border: 0;
+    font-size: 18px !important;
+    letter-spacing: 2px;
+    opacity: 0.9;
+} 
+.jumbotron {
+    background-color: #f2dede;
+    color: black;
+}
+footer {
+    background-color: #f2dede;
+    color: black;
+    padding: 32px;
+    font-size: 18px;
+}
